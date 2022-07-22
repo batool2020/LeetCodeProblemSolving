@@ -1,0 +1,16 @@
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net5.0\LeetCodeQuestions.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net5.0\LeetCodeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net5.0\LeetCodeQuestions.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net5.0\LeetCodeQuestions.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net5.0\LeetCodeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net5.0\LeetCodeQuestions.exe
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net5.0\LeetCodeQuestions.deps.json
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net5.0\LeetCodeQuestions.runtimeconfig.json
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net5.0\LeetCodeQuestions.runtimeconfig.dev.json
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net5.0\LeetCodeQuestions.dll
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net5.0\ref\LeetCodeQuestions.dll
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\net5.0\LeetCodeQuestions.pdb
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net5.0\LeetCodeQuestions.dll
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net5.0\ref\LeetCodeQuestions.dll
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net5.0\LeetCodeQuestions.pdb
+C:\Users\DELL\Source\Repos\LeetCode\LeetCodeProblemSolving\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\net5.0\LeetCodeQuestions.genruntimeconfig.cache
